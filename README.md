@@ -12,6 +12,9 @@ A training project for an online store with access rights, a shopping cart, and 
 - **Configuration:** Pydantic-Settings ✅
 - **Deploy:** Docker 🐳
 
+## Routes
+<img width="2724" height="2664" alt="localhost_8000_docs" src="https://github.com/user-attachments/assets/29258b56-6a63-428a-8728-52d09c2c1f44" />
+
 ## Structure
 ```
 .
@@ -40,7 +43,7 @@ A training project for an online store with access rights, a shopping cart, and 
 ### Clone the repository
 ```bash
 git clone https://github.com/DarkMonarch-DN/Online-Store.git
-cd online_store
+cd Online-Store
 ```
 
 ### Prepare encryption keys:
